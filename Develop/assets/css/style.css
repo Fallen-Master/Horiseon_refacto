@@ -54,7 +54,7 @@ p {
     background-position: center;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -64,11 +64,11 @@ p {
     
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
