@@ -3,8 +3,8 @@
 Horiseon Refacto project was to improving the code for Horision, an online mangement content compant for Search Engine Optimization, Online Reputation Management and, Social Media MArketing.
 
 The customer reached out to the team and I to review the code and address the bugs with the broken links. 
-After further analysis, only a single developer would be needed for the task at hand 
-<br>
+After further analysis, only a single developer would be needed for the task at hand.
+
 
 ## Changes made
 * Improved code readability by introducing proper semantics
@@ -16,4 +16,10 @@ After further analysis, only a single developer would be needed for the task at 
 ______
 
 ### Credits
-Horision Refacto was reactored by [Rafael Gomez](https://github.com/Fallen-Master).
+Horision Refacto was reactored by [Rafael Gomez](https://github.com/Fallen-Master)
+ 
+### Link
+[Horision](https://fallen-master.github.io/Horiseon_refacto/)
+
+### Reference Image
+![image](./assets/images/Horiseon-refacto-image.png)
