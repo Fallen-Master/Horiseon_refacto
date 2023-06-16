@@ -17,6 +17,7 @@ ____
 
 ### File location
 HTML file is located in the main repository 
+CSS is located in the assets folder
 
 ### Link
 [Horision](https://fallen-master.github.io/Horiseon_refacto/)
