@@ -4,7 +4,7 @@ Horiseon Refacto project was to improving the code for Horision, an online mange
 
 The customer reached out to the team and I to review the code and address the bugs with the broken links. 
 After further analysis, only a single developer would be needed for the task at hand.
-
+___
 
 ## Changes made
 * Improved code readability by introducing proper semantics
@@ -13,13 +13,18 @@ After further analysis, only a single developer would be needed for the task at 
 * Removed unused elements and unnecessart code.
 * Improved CSS readability to flow with HTML 
 * Added comments to sperate the different sections of the webpage
-______
+____
+
+### File location
+HTML file is located in the main repository 
+
+### Link
+[Horision](https://fallen-master.github.io/Horiseon_refacto/)
 
 ### Credits
 Horision Refacto was reactored by [Rafael Gomez](https://github.com/Fallen-Master)
  
-### Link
-[Horision](https://fallen-master.github.io/Horiseon_refacto/)
+
 
 ### Reference Image
 ![image](./assets/images/Horiseon-refacto-image.png)
